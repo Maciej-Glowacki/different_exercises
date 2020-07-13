@@ -1,2 +1,2 @@
 # mój-projekt
-Moje prace
+Moje prace - czyli od zera do bohatera :)
